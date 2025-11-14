@@ -13,11 +13,11 @@ El objetivo principal es entender y demostrar cómo:
 
 🛠️ Tecnologías Utilizadas
 
-Tecnología         Rol en el Proyecto
-Playwright          Framework principal para la ejecución de pruebas HTTP.
-TypeScript          "Añade tipado estático, mejorando la robustez y mantenimiento del código."
-Node.js/npm         Entorno de ejecución y gestor de paquetes.
-API Target          NASA Astronomy Picture of the Day (APOD).
+Tecnología         
+Playwright: Framework principal para la ejecución de pruebas HTTP.
+TypeScript: "Añade tipado estático, mejorando la robustez y mantenimiento del código."
+Node.js/npm: Entorno de ejecución y gestor de paquetes.
+API Target:  NASA Astronomy Picture of the Day (APOD).
 
 🤖 Nota sobre la Productividad y la IA
 

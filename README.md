@@ -39,7 +39,7 @@ Este proyecto fue desarrollado utilizando una Inteligencia Artificial (IA) como 
 
    1- Para ejecutar las pruebas en tu entorno local:
 
-   2- Clona el repositorio: git clone https://www.youtube.com/watch?v=GtN6N11qSgA
+   2- Clona el repositorio: git clone (Tutorial de git : https://www.youtube.com/watch?v=GtN6N11qSgA )
 
    3- Instala dependencias: npm install
 
